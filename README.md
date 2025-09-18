@@ -50,7 +50,9 @@ AI-driven recommendations
 🎥 Demo Video
 Watch our project demo here: Click to Watch
 https://drive.google.com/file/d/1NhcyvOLXOnov2t6fk9oLHopKLTTeKdA3/view?usp=drivesdk
+
+
 ⚡ How to Run
-Clone the repository:
+Clone the repository: https://github.com/FirdhoseR1410/Smart-city-ai?tab=readme-ov-file
 
 git clone
